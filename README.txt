@@ -15,3 +15,8 @@ index.html をブラウザで開いてください。
 
 [v2.3]
 Internal page links now use a lightweight ~260ms fade/slide transition before navigation, with a ~380ms entrance settle. The homepage intro appears only once per browser tab/session.
+
+
+[v3.0 2026-11]
+デザインを刷新（深い青×紺を基調に、角を締めたシャープな見た目へ）。文章・ページ構成は変更なし。
+style.css を1本に整理し、冒頭に目次と色の設定をまとめました（色の変更は「1. 基本設定」だけでOK）。
